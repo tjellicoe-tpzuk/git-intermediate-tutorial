@@ -1,0 +1,9 @@
+{
+  "name": "git-intermediate-tutorial",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/index.js",
+    "test:divide": "node tests/divide.test.js",
+    "test:multiply": "node tests/multiply.test.js"
+  }
+}
