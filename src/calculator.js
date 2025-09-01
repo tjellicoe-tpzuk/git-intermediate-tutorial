@@ -8,3 +8,4 @@ function multiply(a, b) {
 }
 
 module.exports = { divide, multiply };
+// typo in calculator
