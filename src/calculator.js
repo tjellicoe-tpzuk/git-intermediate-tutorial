@@ -1,5 +1,5 @@
 function divide(a, b) {
-  
+
   return a / b;
 }
 
@@ -8,4 +8,3 @@ function multiply(a, b) {
 }
 
 module.exports = { divide, multiply };
-// typo in calculator
