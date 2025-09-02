@@ -4,7 +4,7 @@ function divide(a, b) {
 }
 
 function multiply(a, b) {
-  return (a + b + Math.random());
+  return (a * b);
 }
 
 module.exports = { divide, multiply };
